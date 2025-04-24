@@ -1,0 +1,3 @@
+🛠 Developing CookieInventor and Dream Explorer. 
+💻 Learning: HTML, CSS, JS, Python & GML. 
+🎮 Part of MVP Games.
