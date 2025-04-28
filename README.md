@@ -1,3 +1,3 @@
-- 🛠 Developing CookieInventor and Dream Explorer. 
+- 🛠 Developer of [CookieInventor](https://gamejolt.com/games/cookieinventor/825626) and [Dream Explorer](https://gamejolt.com/games/DreamExplorer/923212). 
 - 💻 Learning:  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=flat) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat) & GML. 
 - 🎮 Part of [MVP Games](https://github.com/MVPGamesDevs).
